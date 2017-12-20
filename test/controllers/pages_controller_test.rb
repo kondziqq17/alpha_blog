@@ -1,4 +1,4 @@
-require 'test_helper'
+=begin require 'test_helper'
 
 class PagesControllerTest < ActionDispatch::IntegrationTest
   test "should get home" do
@@ -12,3 +12,5 @@ class PagesControllerTest < ActionDispatch::IntegrationTest
   end
 
 end
+
+=end
